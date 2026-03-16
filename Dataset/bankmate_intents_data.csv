@@ -1,0 +1,224 @@
+intent,text
+greeting,hello there
+greeting,hi boss
+greeting,good morning my guy
+greeting,wetin dey happen
+greeting,how far na
+greeting,hey friend
+greeting,good afternoon sir
+greeting,hello dear
+greeting,wassup champ
+greeting,morning love
+greeting,good day madam
+greeting,hi oga
+greeting,hey sister
+greeting,good evening boss
+greeting,chai na you
+greeting,how body hold
+greeting,na me o
+greeting,hello bankmate
+greeting,hi assistant
+greeting,good morning fine boy
+greeting,wetin dey sup
+greeting,hey my person
+greeting,good day darling
+greeting,morning madam
+greeting,hello love
+greeting,hi bros
+greeting,good afternoon my guy
+greeting,wetin dey pop
+greeting,how you dey today
+greeting,hey champ
+greeting,good morning o
+greeting,hello fine girl
+greeting,hi dear
+greeting,good day boss
+greeting,wetin dey ground
+greeting,morning my person
+greeting,hey love
+greeting,good evening madam
+greeting,hello oga at the top
+greeting,hi sister
+greeting,good morning boss lady
+greeting,wetin dey my brother
+greeting,hey fine boy
+greeting,good day my sister
+greeting,morning boss man
+greeting,hello darling
+greeting,hi my guy
+greeting,good afternoon love
+greeting,wetin dey happen o
+greeting,how far my person
+balance_inquiry_guide,how do I check my account balance
+balance_inquiry_guide,what is the code to see my balance
+balance_inquiry_guide,tell me how to check how much I have
+balance_inquiry_guide,how can I know my remaining money
+balance_inquiry_guide,which USSD do I dial for balance
+balance_inquiry_guide,how to view my account balance on phone
+balance_inquiry_guide,steps to check balance please
+balance_inquiry_guide,how do I see my current balance
+balance_inquiry_guide,what number should I dial to check money
+balance_inquiry_guide,guide me on how to check my balance
+balance_inquiry_guide,how to know how much is left in my account
+balance_inquiry_guide,balance enquiry how do I do it
+balance_inquiry_guide,tell me the way to check my account
+balance_inquiry_guide,how can I see my bank balance now
+balance_inquiry_guide,what is the procedure to check balance
+balance_inquiry_guide,how to check how much money I get
+balance_inquiry_guide,USSD code for balance enquiry
+balance_inquiry_guide,how do I find out my account balance
+balance_inquiry_guide,please show me how to check balance
+balance_inquiry_guide,which code shows my remaining balance
+balance_inquiry_guide,how to check balance without going to branch
+balance_inquiry_guide,steps for balance check on mobile
+balance_inquiry_guide,how do I confirm how much I have left
+balance_inquiry_guide,guide for checking account balance
+balance_inquiry_guide,how to see my money balance
+balance_inquiry_guide,what do I dial to know my balance
+balance_inquiry_guide,balance check instructions
+balance_inquiry_guide,how to look at my account money
+transfer_guide,how do I send money to someone
+transfer_guide,what are the steps to make a transfer
+transfer_guide,how can I transfer money safely
+transfer_guide,guide me on how to send cash to account
+transfer_guide,how do I move money from my account
+transfer_guide,what is the safest way to transfer funds
+transfer_guide,steps to send money through app
+transfer_guide,how to do bank transfer on phone
+transfer_guide,tell me how to send money to another bank
+transfer_guide,procedure for transferring money
+transfer_guide,how can I send money without mistake
+transfer_guide,guide for sending money to friend
+transfer_guide,what should I do to transfer cash
+transfer_guide,how to transfer money using USSD
+transfer_guide,safe steps for bank transfer
+transfer_guide,how do I send money to my sister account
+transfer_guide,transfer money guide please
+transfer_guide,how to move funds to another person
+transfer_guide,steps to transfer to different bank
+transfer_guide,how to send money securely
+transfer_guide,guide me on money transfer process
+transfer_guide,what app should I use to transfer
+card_lost_guide,my card is missing what should I do first
+card_lost_guide,how do I report a lost debit card
+card_lost_guide,steps to take when card is stolen
+card_lost_guide,what is the first thing to do if card is lost
+card_lost_guide,how to quickly block a lost card
+card_lost_guide,procedure for lost or stolen card
+card_lost_guide,my ATM card don lost wetin I go do
+card_lost_guide,guide me on what to do if card is missing
+card_lost_guide,how to freeze card when it's lost
+card_lost_guide,what number should I call for lost card
+card_lost_guide,how to report stolen bank card
+card_lost_guide,steps after discovering card is gone
+card_lost_guide,how do I protect my account if card lost
+card_lost_guide,lost card what next
+card_lost_guide,how to block card that is not with me
+card_lost_guide,my card dey lost abeg help
+loan_application_guide,how do I apply for a personal loan
+loan_application_guide,what are the steps to request a loan
+loan_application_guide,how can I get a loan from my bank
+loan_application_guide,loan application procedure please
+loan_application_guide,what documents do I need for loan
+loan_application_guide,how to start loan application on app
+loan_application_guide,guide me on how to apply for quick loan
+loan_application_guide,how do I check if I qualify for loan
+loan_application_guide,steps to apply for bank loan
+loan_application_guide,what is the process for getting a loan
+loan_application_guide,how to apply for loan online
+loan_application_guide,loan requirements and steps
+loan_application_guide,tell me how to request loan money
+loan_application_guide,how to apply for personal loan guide
+loan_application_guide,what do I need before applying loan
+bill_payment_guide,how do I pay my electricity bill
+bill_payment_guide,steps to pay DSTV subscription
+bill_payment_guide,how to make bill payment on app
+bill_payment_guide,guide for paying NEPA or electricity bill
+bill_payment_guide,how do I pay GOTV or Startimes
+bill_payment_guide,procedure to pay utility bills
+bill_payment_guide,how to pay bills using bank app
+bill_payment_guide,what are the steps for bill payment
+bill_payment_guide,how can I pay my water or electricity bill
+bill_payment_guide,guide me on paying DSTV bill
+bill_payment_guide,how to clear pending bills on phone
+bill_payment_guide,bill payment instructions
+bill_payment_guide,how to pay electricity token
+bill_payment_guide,steps to pay cable TV bill
+airtime_topup_guide,how do I buy airtime for MTN
+airtime_topup_guide,steps to recharge my Glo line
+airtime_topup_guide,how can I load airtime on Airtel
+airtime_topup_guide,guide for buying airtime on app
+airtime_topup_guide,how to top up airtime using USSD
+airtime_topup_guide,procedure to recharge phone credit
+airtime_topup_guide,how do I buy airtime for 9mobile
+airtime_topup_guide,what is the easiest way to load airtime
+airtime_topup_guide,steps to recharge any network
+airtime_topup_guide,how to buy airtime through bank app
+airtime_topup_guide,airtime purchase guide
+airtime_topup_guide,how to load credit fast
+fraud_report_guide,how do I report suspicious activity
+fraud_report_guide,what should I do if I see fraud
+fraud_report_guide,steps to report unauthorized transaction
+fraud_report_guide,how to report scam or fraud
+fraud_report_guide,guide for reporting fraud on account
+fraud_report_guide,what number do I call for fraud alert
+fraud_report_guide,how to report if money was taken
+fraud_report_guide,procedure to report phishing or scam
+fraud_report_guide,what to do if account is compromised
+fraud_report_guide,how do I report fraud to my bank
+fraud_report_guide,fraud reporting steps
+fraud_report_guide,suspect fraud what next
+complaint_guide,how do I make a formal complaint
+complaint_guide,where can I report an issue with app
+complaint_guide,steps to lodge a complaint
+complaint_guide,how to complain about failed transaction
+complaint_guide,guide for customer complaint
+complaint_guide,what is the way to report problem
+complaint_guide,how do I tell the bank about my issue
+complaint_guide,procedure for filing a complaint
+complaint_guide,how to report service problem
+ussd_help,what are the common USSD codes
+ussd_help,how do I use USSD for banking
+ussd_help,tell me USSD codes for my bank
+ussd_help,which USSD works for balance and transfer
+ussd_help,guide me on USSD banking codes
+ussd_help,how to use short codes for banking
+ussd_help,list of useful USSD codes
+ussd_help,USSD help for beginners
+ussd_help,which code for different banks
+atm_branch_guide,how do I find the nearest ATM
+atm_branch_guide,where can I locate a bank branch
+atm_branch_guide,how to find ATM close to me
+atm_branch_guide,guide for finding nearest branch
+atm_branch_guide,what app shows ATM locations
+atm_branch_guide,how do I locate ATM or branch
+atm_branch_guide,nearest ATM or branch finder
+atm_branch_guide,how to know where bank branch is
+atm_branch_guide,ATM location help
+atm_branch_guide,branch near me how
+goodbye,okay thank you
+goodbye,bye for now
+goodbye,thanks a lot
+goodbye,good night
+goodbye,see you later
+goodbye,take care
+goodbye,bye bye
+goodbye,thank you bankmate
+goodbye,alright later
+goodbye,goodbye boss
+goodbye,thanks my guy
+goodbye,see you next time
+goodbye,bye love
+goodbye,good night my person
+human_agent,I want to speak to a real person
+human_agent,please connect me to customer care
+human_agent,transfer me to live agent
+human_agent,call human support please
+human_agent,I prefer talking to agent
+human_agent,connect me to customer service
+human_agent,no be bot I want abeg
+human_agent,give me live person
+human_agent,escalate to agent please
+human_agent,talk to somebody real
+human_agent,human agent abeg
+human_agent,I wan speak to person
