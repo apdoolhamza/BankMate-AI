@@ -1,0 +1,84 @@
+{
+  "responses": {
+    "greeting": [
+      "Hello boss! Welcome to BankMate. How can I guide you today?",
+      "Hey there! I'm here to help with banking steps. Wetin you need?",
+      "Good morning my person! How I fit guide you today?",
+      "Hi! BankMate dey your service. Tell me wetin you wan do.",
+      "Hello! How far? Make we solve your banking matter together.",
+      "Good afternoon! Ready to learn the steps? I'm here.",
+      "Hey champ! How body? Wetin be the banking issue today?",
+      "Welcome! I'm your guide for all banking procedures."
+    ],
+    "balance_inquiry_guide": [
+      "To check your balance, dial *737*1# or open your bank app and login.",
+      "Simple way: Use your bank's USSD code or mobile app. Want the exact code?",
+      "You fit check balance by dialing your bank's short code or through the app.",
+      "Step 1: Open app or dial USSD. Step 2: Enter PIN. Want me to list the codes?",
+      "Balance check is easy! Most banks use *737# or their app. Which bank you dey use?",
+      "No need to stress. Just open your banking app or use USSD. I go guide you step by step.",
+      "To see your balance: Dial the USSD for your bank or login to the app."
+    ],
+    "transfer_guide": [
+      "To send money safely: 1. Open app 2. Go to Transfer 3. Enter details. Always double-check account number.",
+      "Best way is through your bank's mobile app. Never share OTP or PIN.",
+      "Transfer guide: Use app or USSD. Always confirm beneficiary name before sending.",
+      "Step-by-step: Open app → Transfers → Enter amount & account → Confirm.",
+      "Safe transfer tip: Use your bank app and enable 2FA. Want the exact steps?"
+    ],
+    "card_lost_guide": [
+      "If your card is lost, immediately dial your bank's block line or use the app to freeze it.",
+      "First step: Block the card via app or USSD. Then visit branch for replacement.",
+      "Don't panic! Quickly block the card using your bank's lost card procedure.",
+      "Call customer care or use app to block card. Then request new one.",
+      "Lost card steps: Block immediately → Report to bank → Get replacement card."
+    ],
+    "loan_application_guide": [
+      "To apply for loan: Login to app or visit nearest branch with your documents.",
+      "Loan process: Check eligibility on app, then submit application online or at branch.",
+      "Most banks allow loan application through their mobile app. Want the requirements?",
+      "First check if you qualify on the app, then apply with necessary documents."
+    ],
+    "bill_payment_guide": [
+      "To pay bills: Open your bank app → Bills & Payments → Select service → Enter amount.",
+      "You fit pay NEPA, DSTV, GOTV easily through the mobile app or USSD.",
+      "Bill payment is simple on the app. Which bill you wan pay today?"
+    ],
+    "airtime_topup_guide": [
+      "To buy airtime: Use *737*amount*phone# or do it directly in the bank app.",
+      "Airtime recharge is fast on app or via USSD. Which network?",
+      "Quick way: Dial the airtime USSD code for your network or use the banking app."
+    ],
+    "fraud_report_guide": [
+      "If you suspect fraud: Immediately block your card/account and report to your bank.",
+      "Step 1: Block everything. Step 2: Call customer care. Step 3: Visit branch with evidence.",
+      "Report fraud fast! Use your bank's app or call their hotline right away."
+    ],
+    "complaint_guide": [
+      "To lodge a complaint: Use the feedback section in the app or call customer care.",
+      "Best way is to call customer service or use the complaint form in the app.",
+      "I'm sorry for any inconvenience. Let me guide you on how to file a proper complaint."
+    ],
+    "ussd_help": [
+      "Common USSD: *737# for GTBank, *966# for Zenith, *919# for Access, *822# for UBA.",
+      "Most banks have their own USSD codes. Tell me your bank and I go give you the codes.",
+      "USSD is very useful! Which bank do you use?"
+    ],
+    "atm_branch_guide": [
+      "To find nearest ATM or branch: Use your bank's mobile app locator or website.",
+      "Open the app and click on 'Branch/ATM Locator'. It uses your location.",
+      "You fit find ATM near you inside the banking app."
+    ],
+    "goodbye": [
+      "You're welcome! Safe banking. Come back anytime.",
+      "No wahala. Call me anytime you need guidance.",
+      "Take care boss! BankMate dey here 24/7.",
+      "Bye! Have a great day."
+    ],
+    "human_agent": [
+      "I understand. Let me connect you to a live agent now...",
+      "Transferring you to human support. One moment please.",
+      "I'm sorry I couldn't help fully. Connecting you to customer care."
+    ]
+  }
+  }
